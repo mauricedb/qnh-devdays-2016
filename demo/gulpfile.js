@@ -8,4 +8,8 @@ gulp.task('lint', () => {
         .pipe(eslint.failAfterError());
 });
 
-gulp.task('default', ['lint']);
+gulp.task('watch', () => {
+  gulp.watch(['**/*.js', '!node_modules/**'], ['lint']);
+});
+
+gulp.task('default', ['lint', 'watch']);
