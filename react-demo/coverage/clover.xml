@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1473925909735" clover="3.2.0">
+  <project timestamp="1473925909736" name="All files">
+    <metrics statements="57" coveredstatements="56" conditionals="12" coveredconditionals="10" methods="17" coveredmethods="16" elements="86" coveredelements="82" complexity="0" loc="57" ncloc="57" packages="1" files="6" classes="6">
+      <file name="inputText.jsx" path="C:\Projects\rrr\Finished\app\inputText.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+      </file>
+      <file name="movieEditor.jsx" path="C:\Projects\rrr\Finished\app\movieEditor.jsx">
+        <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="6" methods="5" coveredmethods="5"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="92" count="2" type="stmt"/>
+      </file>
+      <file name="moviesList.jsx" path="C:\Projects\rrr\Finished\app\moviesList.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+      <file name="moviesListRow.jsx" path="C:\Projects\rrr\Finished\app\moviesListRow.jsx">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+      <file name="moviesListState.jsx" path="C:\Projects\rrr\Finished\app\moviesListState.jsx">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="textArea.jsx" path="C:\Projects\rrr\Finished\app\textArea.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
