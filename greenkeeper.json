@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "demo/package.json",
+        "node-docker/package.json",
+        "qnh-aspnet-core/wwwroot/lib/bootstrap/package.json",
+        "qnh-aspnet-core/wwwroot/lib/jquery-validation/package.json",
+        "react-demo/package.json"
+      ]
+    }
+  }
+}
